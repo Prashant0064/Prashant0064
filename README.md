@@ -14,13 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Crafting Engaging User Experiences with Frontend Development and Cyber Security
+Crafting Engaging User Experiences with Software Developer
 
-🔭 I’m currently working on Online Voting System
+🔭 I’m currently working on Blockchain based file storage system
 
 👨‍💻 All of my projects are available at https://github.com/Prashant0064
 
-💬 Ask me about HTML || Javascript || ReactJs || NodeJs || MongoDB || CYBER SECURITY
+💬 Ask me about HTML || Javascript || ReactJs || NodeJs || MongoDB || PYTHON
 
 📫 How to reach me prashantchoudhary209@gmail.com
 
